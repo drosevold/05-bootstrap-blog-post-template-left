@@ -1,12 +1,10 @@
-# [Responsive Bootstrap template - two columns with left sidebar](http://github.com)
+# Responsive Bootstrap template - two columns with left sidebar
 
-[Responsive Bootstrap template - two columns with left sidebar](http://github.com) is a basic HTML template that uses the [Bootstrap](http://getbootstrap.com/)  framework. All key Bootstrap files have been included so you can begin creating layouts as needed.
+[Responsive Bootstrap template - two columns with left sidebar](https://github.com/russmaxdesign/bootstrap-blog-post-template-left) is a basic HTML template that uses the [Bootstrap](http://getbootstrap.com/)  framework. All key Bootstrap files have been included so you can begin creating layouts as needed.
 
 ## File structure
 
-[Responsive Bootstrap template - two columns with left sidebar](http://github.com) uses the following file structure:
-
--------------
+[Responsive Bootstrap template - two columns with left sidebar](https://github.com/russmaxdesign/bootstrap-blog-post-template-left) uses the following file structure:
 
 	assets/
 		css/
@@ -21,7 +19,6 @@
 			glyphicons-halflings-regular.woff2
 		img/
 			apple-touch-icon.png
-			wheat.jpg
 		js/
 			bootstrap.js
 			bootstrap.min.js
@@ -33,16 +30,4 @@
 	licence.md
 	readme.md
 
-------------------
-
-## Author
-
-[Responsive Bootstrap template - two columns with left sidebar](http://github.com) was created by [Russ Weakley](https://twitter.com/mdo), [Max Design](hppt://maxdesign.com.au).
-
-## Copyright
-
-Copyright 2015 Max Design. 
-
-## License
-
-See LICENCE.md for full details
+[Responsive Bootstrap template - two columns with left sidebar](https://github.com/russmaxdesign/bootstrap-blog-post-template-left) was created by [Russ Weakley](https://twitter.com/russmaxdesign), [Max Design](http://maxdesign.com.au/). Copyright 2015 Max Design. See LICENCE.md for full details.
